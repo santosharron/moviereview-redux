@@ -5,9 +5,6 @@
 
 ![alt text](./appScreenshot.png 'App Screenshot')
 
-react-redux-architecture
-
-View the running [website](https://codebelt.github.io/react-redux-architecture/)
 
 
 Read the article explaining this code:
