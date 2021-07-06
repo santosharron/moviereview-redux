@@ -1,15 +1,17 @@
-## react-redux-architecture
+
+
+
+## Movie Review Website
+
+![alt text](./appScreenshot.png 'App Screenshot')
+
+react-redux-architecture
 
 View the running [website](https://codebelt.github.io/react-redux-architecture/)
 
 
 Read the article explaining this code:
 [My Awesome React Redux Structure](https://medium.com/better-programming/my-awesome-react-redux-structure-6044e5007e22)
-
-
-#### Movie Review Website
-
-![alt text](./appScreenshot.png 'App Screenshot')
 
 ## Create React App
 
